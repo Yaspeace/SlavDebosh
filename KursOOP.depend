@@ -1,0 +1,2611 @@
+# depslib dependency file v1.0
+1620299538 source:d:\codeblocks\kursoop\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620295893 d:\codeblocks\kursoop\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620326496 source:d:\codeblocks\kursoop\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"view.h"
+	"controller.h"
+
+1618745164 d:\codeblocks\kursoop\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1618745244 source:d:\codeblocks\kursoop\stb_image.cpp
+	"stb_image.h"
+
+1620325730 source:d:\codeblocks\kursoop\controller.cpp
+	"controller.h"
+
+1620325637 d:\codeblocks\kursoop\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1618946388 d:\codeblocks\kursoop\cell.h
+
+1620297445 d:\codeblocks\kursoop\unit.h
+	<iostream>
+	<random>
+
+1620292780 source:d:\codeblocks\kursoop\unit.cpp
+	"Unit.h"
+	<windows.h>
+
+1619707828 source:c:\users\admin\desktop\kursoop\controller.cpp
+	"controller.h"
+
+1619707886 c:\users\admin\desktop\kursoop\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1619180632 c:\users\admin\desktop\kursoop\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+
+1618992388 c:\users\admin\desktop\kursoop\cell.h
+
+1618992434 c:\users\admin\desktop\kursoop\unit.h
+	<iostream>
+	<random>
+
+1619380662 source:c:\users\admin\desktop\kursoop\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1619769319 source:c:\users\admin\desktop\kursoop\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"view.h"
+	"controller.h"
+
+1618745164 c:\users\admin\desktop\kursoop\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1618745244 source:c:\users\admin\desktop\kursoop\stb_image.cpp
+	"stb_image.h"
+
+1618992434 source:c:\users\admin\desktop\kursoop\unit.cpp
+	"Unit.h"
+	<windows.h>
+
+1620336833 d:\codeblocks\kursoop\view.h
+	<windows.h>
+	<thread>
+	<chrono>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1619715938 source:c:\users\admin\desktop\kursoop\view.cpp
+	"view.h"
+
+1619768936 c:\users\admin\desktop\kursoop\view.h
+	<windows.h>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+
+1619707370 c:\users\admin\desktop\kursoop\update.h
+	"Generation.h"
+	"Unit.h"
+
+1620295816 d:\codeblocks\kursoop\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620332486 source:d:\codeblocks\kursoop\view.cpp
+	"view.h"
+
+1620330266 source:d:\codeblocks\kursoop\update.cpp
+	"Update.h"
+	<windows.h>
+
+1619644430 source:c:\users\admin\desktop\kursoop\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620325730 source:c:\users\мой компьютер\desktop\kursoop\controller.cpp
+	"controller.h"
+
+1620325637 c:\users\мой компьютер\desktop\kursoop\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1620323942 c:\users\мой компьютер\desktop\kursoop\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620295893 c:\users\мой компьютер\desktop\kursoop\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620510311 c:\users\мой компьютер\desktop\kursoop\unit.h
+	<iostream>
+	<random>
+
+1620561983 c:\users\мой компьютер\desktop\kursoop\view.h
+	<windows.h>
+	<chrono>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1618745164 c:\users\мой компьютер\desktop\kursoop\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620299538 source:c:\users\мой компьютер\desktop\kursoop\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620326496 source:c:\users\мой компьютер\desktop\kursoop\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"view.h"
+	"controller.h"
+
+1618745244 source:c:\users\мой компьютер\desktop\kursoop\stb_image.cpp
+	"stb_image.h"
+
+1620292780 source:c:\users\мой компьютер\desktop\kursoop\unit.cpp
+	"Unit.h"
+	<windows.h>
+
+1620554717 source:c:\users\мой компьютер\desktop\kursoop\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620336826 source:c:\users\мой компьютер\desktop\kursoop\view.cpp
+	"view.h"
+
+1620299357 source:d:\codeblocks\kursoop\building.cpp
+	"Building.h"
+
+1620299457 d:\codeblocks\kursoop\building.h
+
+1620295781 d:\codeblocks\kursoop\resourse.h
+
+1620295661 source:d:\codeblocks\kursoop\resourse.cpp
+
+1620678224 source:c:\users\niksinpc\desktop\kursoop\building.cpp
+	"Building.h"
+
+1620678193 c:\users\niksinpc\desktop\kursoop\building.h
+
+1620690566 source:c:\users\niksinpc\desktop\kursoop\controller.cpp
+	"controller.h"
+
+1620690581 c:\users\niksinpc\desktop\kursoop\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1620683074 c:\users\niksinpc\desktop\kursoop\view.h
+	<windows.h>
+	<chrono>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1618745164 c:\users\niksinpc\desktop\kursoop\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620295893 c:\users\niksinpc\desktop\kursoop\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620677069 c:\users\niksinpc\desktop\kursoop\unit.h
+	<iostream>
+	<random>
+
+1620295781 c:\users\niksinpc\desktop\kursoop\resourse.h
+
+1620692126 c:\users\niksinpc\desktop\kursoop\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Player.h"
+
+1620678682 source:c:\users\niksinpc\desktop\kursoop\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620692874 source:c:\users\niksinpc\desktop\kursoop\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"view.h"
+	"controller.h"
+	"Player.h"
+
+1620295661 source:c:\users\niksinpc\desktop\kursoop\resourse.cpp
+
+1618745244 source:c:\users\niksinpc\desktop\kursoop\stb_image.cpp
+	"stb_image.h"
+
+1620686091 source:c:\users\niksinpc\desktop\kursoop\unit.cpp
+	"Unit.h"
+
+1620692887 source:c:\users\niksinpc\desktop\kursoop\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620684252 source:c:\users\niksinpc\desktop\kursoop\view.cpp
+	"view.h"
+
+1620299357 source:c:\users\мой компьютер\desktop\kursoop\building.cpp
+	"Building.h"
+
+1620510388 c:\users\мой компьютер\desktop\kursoop\building.h
+
+1620295781 c:\users\мой компьютер\desktop\kursoop\resourse.h
+
+1620295661 source:c:\users\мой компьютер\desktop\kursoop\resourse.cpp
+
+1620687747 source:c:\users\niksinpc\desktop\kursoop\player.cpp
+	"Player.h"
+
+1620687747 c:\users\niksinpc\desktop\kursoop\player.h
+
+1620731212 source:c:\users\mikle\desktop\kursoop\building.cpp
+	"Building.h"
+
+1620731212 c:\users\mikle\desktop\kursoop\building.h
+
+1620731212 source:c:\users\mikle\desktop\kursoop\controller.cpp
+	"controller.h"
+
+1620731212 c:\users\mikle\desktop\kursoop\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1620758347 c:\users\mikle\desktop\kursoop\view.h
+	<windows.h>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1620731213 c:\users\mikle\desktop\kursoop\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620731212 c:\users\mikle\desktop\kursoop\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620758036 c:\users\mikle\desktop\kursoop\unit.h
+	<iostream>
+	<random>
+	<chrono>
+	<time.h>
+
+1620731213 c:\users\mikle\desktop\kursoop\resourse.h
+
+1620733687 c:\users\mikle\desktop\kursoop\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Player.h"
+
+1620733363 c:\users\mikle\desktop\kursoop\player.h
+
+1620731212 source:c:\users\mikle\desktop\kursoop\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620755370 source:c:\users\mikle\desktop\kursoop\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"view.h"
+	"controller.h"
+	"Player.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop\player.cpp
+	"Player.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop\resourse.cpp
+
+1620731213 source:c:\users\mikle\desktop\kursoop\stb_image.cpp
+	"stb_image.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop\unit.cpp
+	"Unit.h"
+
+1620734536 source:c:\users\mikle\desktop\kursoop\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620759858 source:c:\users\mikle\desktop\kursoop\view.cpp
+	"view.h"
+
+1620731212 source:c:\users\mikle\desktop\kursoop v1.0\building.cpp
+	"Building.h"
+
+1620731212 c:\users\mikle\desktop\kursoop v1.0\building.h
+
+1620731212 source:c:\users\mikle\desktop\kursoop v1.0\controller.cpp
+	"controller.h"
+
+1620731212 c:\users\mikle\desktop\kursoop v1.0\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1620768516 c:\users\mikle\desktop\kursoop v1.0\view.h
+	<windows.h>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1620731213 c:\users\mikle\desktop\kursoop v1.0\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620731212 c:\users\mikle\desktop\kursoop v1.0\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620765525 c:\users\mikle\desktop\kursoop v1.0\unit.h
+	<iostream>
+	<random>
+	<chrono>
+	<time.h>
+
+1620731213 c:\users\mikle\desktop\kursoop v1.0\resourse.h
+
+1620733687 c:\users\mikle\desktop\kursoop v1.0\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Player.h"
+
+1620765391 c:\users\mikle\desktop\kursoop v1.0\player.h
+	"Unit.h"
+	"Building.h"
+	<list>
+
+1620731212 source:c:\users\mikle\desktop\kursoop v1.0\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620765298 source:c:\users\mikle\desktop\kursoop v1.0\main.cpp
+	<windows.h>
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"view.h"
+	"controller.h"
+	"Player.h"
+
+1620765699 source:c:\users\mikle\desktop\kursoop v1.0\player.cpp
+	"Player.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop v1.0\resourse.cpp
+
+1620731213 source:c:\users\mikle\desktop\kursoop v1.0\stb_image.cpp
+	"stb_image.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop v1.0\unit.cpp
+	"Unit.h"
+
+1620765782 source:c:\users\mikle\desktop\kursoop v1.0\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620764590 source:c:\users\mikle\desktop\kursoop v1.0\view.cpp
+	"view.h"
+
+1620731212 source:d:\codeblocks\kursoop v1.0 Ч копи€\building.cpp
+	"Building.h"
+
+1620770362 d:\codeblocks\kursoop v1.0 Ч копи€\building.h
+
+1620731212 source:d:\codeblocks\kursoop v1.0 Ч копи€\controller.cpp
+	"controller.h"
+
+1620731212 d:\codeblocks\kursoop v1.0 Ч копи€\controller.h
+	<windows.h>
+	"View.h"
+	<queue>
+
+1620770562 d:\codeblocks\kursoop v1.0 Ч копи€\view.h
+	<windows.h>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"stb_image.h"
+	"Generation.h"
+	"Update.h"
+	"Unit.h"
+	"Resourse.h"
+
+1620731213 d:\codeblocks\kursoop v1.0 Ч копи€\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620731212 d:\codeblocks\kursoop v1.0 Ч копи€\generation.h
+	<iostream>
+	<random>
+	<chrono>
+	<ctime>
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+
+1620936744 d:\codeblocks\kursoop v1.0 Ч копи€\unit.h
+	<iostream>
+	<random>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Textures.h"
+
+1620731213 d:\codeblocks\kursoop v1.0 Ч копи€\resourse.h
+
+1620733687 d:\codeblocks\kursoop v1.0 Ч копи€\update.h
+	"Generation.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Player.h"
+
+1620765391 d:\codeblocks\kursoop v1.0 Ч копи€\player.h
+	"Unit.h"
+	"Building.h"
+	<list>
+
+1620731212 source:d:\codeblocks\kursoop v1.0 Ч копи€\generation.cpp
+	"Generation.h"
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+
+1620937852 source:d:\codeblocks\kursoop v1.0 Ч копи€\main.cpp
+	<windows.h>
+	"MainWindow.h"
+
+1620765699 source:d:\codeblocks\kursoop v1.0 Ч копи€\player.cpp
+	"Player.h"
+
+1620731213 source:d:\codeblocks\kursoop v1.0 Ч копи€\resourse.cpp
+
+1620731213 source:d:\codeblocks\kursoop v1.0 Ч копи€\stb_image.cpp
+	"stb_image.h"
+
+1620731213 source:d:\codeblocks\kursoop v1.0 Ч копи€\unit.cpp
+	"Unit.h"
+
+1620765782 source:d:\codeblocks\kursoop v1.0 Ч копи€\update.cpp
+	"Update.h"
+	<windows.h>
+
+1620936675 d:\codeblocks\kursoop v1.0 Ч копи€\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+
+1620938889 d:\codeblocks\kursoop v1.0 Ч копи€\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+
+1620939191 source:d:\codeblocks\kursoop v1.0 Ч копи€\src\mainwindow.cpp
+	"MainWindow.h"
+
+1621162191 source:c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+
+1621164348 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1620731214 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1620940966 source:c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\src\mainwindow.cpp
+	"MainWindow.h"
+
+1620731214 source:c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\stb_image.cpp
+	"stb_image.h"
+
+1621162112 source:c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\src\button.cpp
+	"Button.h"
+
+1621166806 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1621111640 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+
+1621161731 source:c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\src\menu.cpp
+	"Menu.h"
+
+1621166295 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\include\game.h
+	"Menu.h"
+	"GameObjects.h"
+
+1621164236 c:\users\мой компьютер\desktop\kursoop v1.0 Ч копи€\include\gameobjects.h
+
+1621162192 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+
+1621164350 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1620731214 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1621499517 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\game.h
+	"Menu.h"
+	"Game_Model.h"
+
+1621111642 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+
+1621166808 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1621164238 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\gameobjects.h
+
+1621162114 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\button.cpp
+	"Button.h"
+
+1621164238 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\gameobjects.cpp
+	"GameObjects.h"
+
+1620940966 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\mainwindow.cpp
+	"MainWindow.h"
+
+1621161732 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\menu.cpp
+	"Menu.h"
+
+1620731214 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\stb_image.cpp
+	"stb_image.h"
+
+1621501021 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\game_model.h
+	"Game_Object.h"
+	"Unit.h"
+	"Building.h"
+	<list>
+
+1621501252 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\game_object.h
+	"gl/gl.h"
+
+1621496435 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+
+1621498061 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+
+1621104583 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\building.cpp
+	"Building.h"
+
+1621499346 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\cell.cpp
+	"Cell.h"
+
+1621501274 c:\users\mikle\desktop\kursoop v1.0 Ч копи€\include\cell.h
+	"Game_Object.h"
+
+1621434476 source:c:\users\mikle\desktop\kursoop v1.0 Ч копи€\src\game_object.cpp
+	"Game_Object.h"
+
+1622449614 source:c:\users\mikle\desktop\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622455746 c:\users\mikle\desktop\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622402194 c:\users\mikle\desktop\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1622445522 c:\users\mikle\desktop\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1622402193 c:\users\mikle\desktop\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop rebuild\src\game_object.cpp
+	"Game_Object.h"
+
+1622451821 source:c:\users\mikle\desktop\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402194 c:\users\mikle\desktop\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\mikle\desktop\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622465417 c:\users\mikle\desktop\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	<list>
+	<string>
+
+1622402194 c:\users\mikle\desktop\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622465891 c:\users\mikle\desktop\kursoop rebuild\include\game_model.h
+	"Game_Object.h"
+	<list>
+
+1622452095 c:\users\mikle\desktop\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Building.h"
+	"Resourse.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1622402192 source:c:\users\mikle\desktop\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1622465601 source:c:\users\mikle\desktop\kursoop rebuild\src\game_model.cpp
+	"Game_Model.h"
+
+1622418741 source:c:\users\mikle\desktop\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop rebuild\src\resourse.cpp
+	"Resourse.h"
+
+1622465275 source:c:\users\mikle\desktop\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622465953 source:c:\users\mikle\desktop\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1622410485 c:\users\mikle\desktop\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622454648 c:\users\mikle\desktop\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Object.h"
+	"Resourse.h"
+	<list>
+
+1622454657 source:c:\users\mikle\desktop\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1622453158 source:c:\users\mikle\desktop\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1622453133 c:\users\mikle\desktop\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622415799 source:c:\users\mikle\desktop\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1622465501 c:\users\mikle\desktop\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622418741 source:c:\users\admin\desktop\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\admin\desktop\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\admin\desktop\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622504306 c:\users\admin\desktop\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	<list>
+	<string>
+
+1622402194 c:\users\admin\desktop\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\admin\desktop\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622496829 c:\users\admin\desktop\kursoop rebuild\include\game_model.h
+	"Game_Object.h"
+	<list>
+
+1622504036 c:\users\admin\desktop\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622505486 c:\users\admin\desktop\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622505115 c:\users\admin\desktop\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622410485 c:\users\admin\desktop\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622489874 c:\users\admin\desktop\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\admin\desktop\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1622453133 c:\users\admin\desktop\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622449614 source:c:\users\admin\desktop\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\admin\desktop\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\admin\desktop\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1622504440 source:c:\users\admin\desktop\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1622402195 source:c:\users\admin\desktop\kursoop rebuild\src\game_object.cpp
+	"Game_Object.h"
+
+1622451821 source:c:\users\admin\desktop\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\admin\desktop\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1622402195 source:c:\users\admin\desktop\kursoop rebuild\src\resourse.cpp
+	"Resourse.h"
+
+1622502625 source:c:\users\admin\desktop\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622402192 source:c:\users\admin\desktop\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1622502625 source:c:\users\admin\desktop\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1622492676 source:c:\users\admin\desktop\kursoop rebuild\src\game_model.cpp
+	"Game_Model.h"
+
+1622491229 source:c:\users\admin\desktop\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1622491345 source:c:\users\admin\desktop\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622490553 c:\users\admin\desktop\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1621544166 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1621544040 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1620731214 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1621942029 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	<list>
+
+1621512715 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+
+1621515818 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1621941977 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Building.h"
+
+1621946536 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+
+1621942026 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+
+1621942037 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+
+1621518458 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+
+1621941955 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1621513211 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+	"Game_Model.h"
+
+1621594651 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\game_model.h
+	"Game_Object.h"
+	"Field.h"
+	<list>
+
+1621927378 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+	"Button.h"
+
+1621512642 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1621949963 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1621529581 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1621946712 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1621434476 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\game_object.cpp
+	"Game_Object.h"
+
+1621858970 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1621943649 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1621515878 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1620731213 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\resourse.cpp
+
+1621926901 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+
+1620731214 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1621930496 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+
+1621893075 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+
+1621946899 source:c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1621806066 c:\users\mikle\desktop\rehcfx rjyytrnby[\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1621964026 source:c:\users\mikle\desktop\kursoop rebuild1\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1621544040 c:\users\mikle\desktop\kursoop rebuild1\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1620731214 c:\users\mikle\desktop\kursoop rebuild1\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1621964077 c:\users\mikle\desktop\kursoop rebuild1\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	<list>
+
+1621512715 c:\users\mikle\desktop\kursoop rebuild1\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+
+1621515818 c:\users\mikle\desktop\kursoop rebuild1\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1621965117 c:\users\mikle\desktop\kursoop rebuild1\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Building.h"
+
+1621946536 c:\users\mikle\desktop\kursoop rebuild1\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+
+1621956767 c:\users\mikle\desktop\kursoop rebuild1\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1621965363 c:\users\mikle\desktop\kursoop rebuild1\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+
+1621942037 c:\users\mikle\desktop\kursoop rebuild1\include\resourse.h
+	"Game_Object.h"
+
+1621518458 c:\users\mikle\desktop\kursoop rebuild1\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+
+1621941955 c:\users\mikle\desktop\kursoop rebuild1\include\cell.h
+	"Game_Object.h"
+
+1621963851 c:\users\mikle\desktop\kursoop rebuild1\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1621594651 c:\users\mikle\desktop\kursoop rebuild1\include\game_model.h
+	"Game_Object.h"
+	"Field.h"
+	<list>
+
+1621965977 source:c:\users\mikle\desktop\kursoop rebuild1\src\building.cpp
+	"Building.h"
+	"Unit.h"
+	"Button.h"
+
+1621512642 source:c:\users\mikle\desktop\kursoop rebuild1\src\button.cpp
+	"Button.h"
+
+1621962482 source:c:\users\mikle\desktop\kursoop rebuild1\src\cell.cpp
+	"Cell.h"
+
+1621529581 source:c:\users\mikle\desktop\kursoop rebuild1\src\field.cpp
+	"Field.h"
+
+1621969093 source:c:\users\mikle\desktop\kursoop rebuild1\src\game.cpp
+	"Game.h"
+
+1621434476 source:c:\users\mikle\desktop\kursoop rebuild1\src\game_object.cpp
+	"Game_Object.h"
+
+1621969581 source:c:\users\mikle\desktop\kursoop rebuild1\src\handler.cpp
+	"Handler.h"
+
+1621943649 source:c:\users\mikle\desktop\kursoop rebuild1\src\mainwindow.cpp
+	"MainWindow.h"
+
+1621515878 source:c:\users\mikle\desktop\kursoop rebuild1\src\menu.cpp
+	"Menu.h"
+
+1620731213 source:c:\users\mikle\desktop\kursoop rebuild1\src\resourse.cpp
+
+1621930496 source:c:\users\mikle\desktop\kursoop rebuild1\src\spawner.cpp
+	"Spawner.h"
+
+1621893075 c:\users\mikle\desktop\kursoop rebuild1\include\spawner.h
+	"Unit.h"
+	"Building.h"
+
+1621965536 source:c:\users\mikle\desktop\kursoop rebuild1\src\textures.cpp
+	"Textures.h"
+
+1621965269 source:c:\users\mikle\desktop\kursoop rebuild1\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+
+1620731214 source:c:\users\mikle\desktop\kursoop rebuild1\stb_image.cpp
+	"stb_image.h"
+
+1622465501 c:\users\admin\desktop\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622415799 source:c:\users\admin\desktop\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1622409912 c:\users\mikle\desktop\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+	<list>
+
+1622410839 source:c:\users\mikle\desktop\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622414672 source:c:\users\mikle\desktop\kursoop rebuild\src\player.cpp
+	"Player.h"
+
+1622402194 c:\users\mikle\desktop\kursoop rebuild\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622414672 source:c:\users\admin\desktop\kursoop rebuild\src\player.cpp
+	"Player.h"
+
+1622402194 c:\users\admin\desktop\kursoop rebuild\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622418741 source:c:\users\мой компьютер\desktop\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\мой компьютер\desktop\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\мой компьютер\desktop\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622540150 c:\users\мой компьютер\desktop\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	"Particle.h"
+	<list>
+	<string>
+
+1622402194 c:\users\мой компьютер\desktop\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\мой компьютер\desktop\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622544188 c:\users\мой компьютер\desktop\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622504036 c:\users\мой компьютер\desktop\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622538800 c:\users\мой компьютер\desktop\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622544228 c:\users\мой компьютер\desktop\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622490553 c:\users\мой компьютер\desktop\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1622542586 c:\users\мой компьютер\desktop\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622489874 c:\users\мой компьютер\desktop\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\мой компьютер\desktop\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\мой компьютер\desktop\kursoop rebuild\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622453133 c:\users\мой компьютер\desktop\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622507672 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1622491229 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1622543924 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\game_object.cpp
+	"Game_Object.h"
+
+1622543369 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1622451821 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1622414672 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\resourse.cpp
+	"Resourse.h"
+
+1622491345 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622538881 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1622540932 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622402192 source:c:\users\мой компьютер\desktop\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1622455732 c:\users\mikle\desktop\kursoop rebuild\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622455019 source:c:\users\mikle\desktop\kursoop rebuild\src\label.cpp
+	"Label.h"
+
+1622455732 c:\users\admin\desktop\kursoop rebuild\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622455019 source:c:\users\admin\desktop\kursoop rebuild\src\label.cpp
+	"Label.h"
+
+1622418741 source:c:\users\niksinpc\desktop\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\niksinpc\desktop\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622417845 c:\users\niksinpc\desktop\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	<list>
+	<string>
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622417527 c:\users\niksinpc\desktop\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622415117 c:\users\niksinpc\desktop\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Building.h"
+	"Resourse.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622405606 c:\users\niksinpc\desktop\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622415845 c:\users\niksinpc\desktop\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622410485 c:\users\niksinpc\desktop\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622409912 c:\users\niksinpc\desktop\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+	<list>
+
+1622443473 c:\users\niksinpc\desktop\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Object.h"
+	"Resourse.h"
+	<list>
+
+1622402193 c:\users\niksinpc\desktop\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622415991 source:c:\users\niksinpc\desktop\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1622444194 source:c:\users\niksinpc\desktop\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1622418067 source:c:\users\niksinpc\desktop\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\game_object.cpp
+	"Game_Object.h"
+
+1622418783 source:c:\users\niksinpc\desktop\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1622417956 source:c:\users\niksinpc\desktop\kursoop rebuild\src\label.cpp
+	"Label.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1622414672 source:c:\users\niksinpc\desktop\kursoop rebuild\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop rebuild\src\resourse.cpp
+	"Resourse.h"
+
+1622410839 source:c:\users\niksinpc\desktop\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622415799 source:c:\users\niksinpc\desktop\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1622405371 source:c:\users\niksinpc\desktop\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622402192 source:c:\users\niksinpc\desktop\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1622455732 c:\users\мой компьютер\desktop\kursoop rebuild\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622540288 c:\users\мой компьютер\desktop\kursoop rebuild\include\game_model.h
+	"Game_Object.h"
+	"Particle.h"
+	<list>
+
+1622455019 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\label.cpp
+	"Label.h"
+
+1622540308 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\game_model.cpp
+	"Game_Model.h"
+
+1622418741 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622504306 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	<list>
+	<string>
+
+1622402194 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622455732 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622536211 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622504036 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622465501 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622496829 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\game_model.h
+	"Game_Object.h"
+	<list>
+
+1622507047 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622410485 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622490553 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1622489874 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622453133 c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622507672 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\cell.cpp
+	"Cell.h"
+
+1622491229 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\field.cpp
+	"Field.h"
+
+1622508097 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\game.cpp
+	"Game.h"
+
+1622492676 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\game_model.cpp
+	"Game_Model.h"
+
+1622506840 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\handler.cpp
+	"Handler.h"
+
+1622455019 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\label.cpp
+	"Label.h"
+
+1622451821 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\menu.cpp
+	"Menu.h"
+
+1622414672 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\resourse.cpp
+	"Resourse.h"
+
+1622491345 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622415799 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\textures.cpp
+	"Textures.h"
+
+1622533566 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622402192 source:c:\users\admin\desktop\ƒл€ программ≈ста\kursoop rebuild\stb_image.cpp
+	"stb_image.h"
+
+1622540144 c:\users\мой компьютер\desktop\kursoop rebuild\include\particle.h
+	"Game_Object.h"
+	"Textures.h"
+	<time.h>
+
+1622540269 source:c:\users\мой компьютер\desktop\kursoop rebuild\src\particle.cpp
+	"Particle.h"
+
+1622418741 source:c:\users\мой компьютер\desktop\kursoop release\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\мой компьютер\desktop\kursoop release\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\мой компьютер\desktop\kursoop release\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622540150 c:\users\мой компьютер\desktop\kursoop release\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	"Particle.h"
+	<list>
+	<string>
+
+1622402194 c:\users\мой компьютер\desktop\kursoop release\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\мой компьютер\desktop\kursoop release\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622455732 c:\users\мой компьютер\desktop\kursoop release\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622547727 c:\users\мой компьютер\desktop\kursoop release\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622504036 c:\users\мой компьютер\desktop\kursoop release\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622538800 c:\users\мой компьютер\desktop\kursoop release\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622540288 c:\users\мой компьютер\desktop\kursoop release\include\game_model.h
+	"Game_Object.h"
+	"Particle.h"
+	<list>
+
+1622540144 c:\users\мой компьютер\desktop\kursoop release\include\particle.h
+	"Game_Object.h"
+	"Textures.h"
+	<time.h>
+
+1622544228 c:\users\мой компьютер\desktop\kursoop release\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622542586 c:\users\мой компьютер\desktop\kursoop release\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622490553 c:\users\мой компьютер\desktop\kursoop release\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1622489874 c:\users\мой компьютер\desktop\kursoop release\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\мой компьютер\desktop\kursoop release\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\мой компьютер\desktop\kursoop release\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622453133 c:\users\мой компьютер\desktop\kursoop release\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622507672 source:c:\users\мой компьютер\desktop\kursoop release\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop release\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop release\src\cell.cpp
+	"Cell.h"
+
+1622491229 source:c:\users\мой компьютер\desktop\kursoop release\src\field.cpp
+	"Field.h"
+
+1622543924 source:c:\users\мой компьютер\desktop\kursoop release\src\game.cpp
+	"Game.h"
+
+1622540308 source:c:\users\мой компьютер\desktop\kursoop release\src\game_model.cpp
+	"Game_Model.h"
+
+1622543369 source:c:\users\мой компьютер\desktop\kursoop release\src\handler.cpp
+	"Handler.h"
+
+1622455019 source:c:\users\мой компьютер\desktop\kursoop release\src\label.cpp
+	"Label.h"
+
+1622451821 source:c:\users\мой компьютер\desktop\kursoop release\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop release\src\menu.cpp
+	"Menu.h"
+
+1622540269 source:c:\users\мой компьютер\desktop\kursoop release\src\particle.cpp
+	"Particle.h"
+
+1622414672 source:c:\users\мой компьютер\desktop\kursoop release\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\мой компьютер\desktop\kursoop release\src\resourse.cpp
+	"Resourse.h"
+
+1622544541 source:c:\users\мой компьютер\desktop\kursoop release\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622538881 source:c:\users\мой компьютер\desktop\kursoop release\src\textures.cpp
+	"Textures.h"
+
+1622402192 source:c:\users\мой компьютер\desktop\kursoop release\stb_image.cpp
+	"stb_image.h"
+
+1622548493 source:c:\users\мой компьютер\desktop\kursoop release\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622418741 source:c:\users\mikle\desktop\kursoop release\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\mikle\desktop\kursoop release\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\mikle\desktop\kursoop release\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622551766 c:\users\mikle\desktop\kursoop release\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	"Particle.h"
+	<list>
+	<string>
+
+1622402194 c:\users\mikle\desktop\kursoop release\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\mikle\desktop\kursoop release\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622455732 c:\users\mikle\desktop\kursoop release\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622547727 c:\users\mikle\desktop\kursoop release\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622504036 c:\users\mikle\desktop\kursoop release\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622538800 c:\users\mikle\desktop\kursoop release\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622540288 c:\users\mikle\desktop\kursoop release\include\game_model.h
+	"Game_Object.h"
+	"Particle.h"
+	<list>
+
+1622540144 c:\users\mikle\desktop\kursoop release\include\particle.h
+	"Game_Object.h"
+	"Textures.h"
+	<time.h>
+
+1622544228 c:\users\mikle\desktop\kursoop release\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622542586 c:\users\mikle\desktop\kursoop release\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622490553 c:\users\mikle\desktop\kursoop release\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1622489874 c:\users\mikle\desktop\kursoop release\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\mikle\desktop\kursoop release\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\mikle\desktop\kursoop release\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622453133 c:\users\mikle\desktop\kursoop release\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622552242 source:c:\users\mikle\desktop\kursoop release\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop release\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop release\src\cell.cpp
+	"Cell.h"
+
+1622491229 source:c:\users\mikle\desktop\kursoop release\src\field.cpp
+	"Field.h"
+
+1622543924 source:c:\users\mikle\desktop\kursoop release\src\game.cpp
+	"Game.h"
+
+1622540308 source:c:\users\mikle\desktop\kursoop release\src\game_model.cpp
+	"Game_Model.h"
+
+1622548608 source:c:\users\mikle\desktop\kursoop release\src\handler.cpp
+	"Handler.h"
+
+1622455019 source:c:\users\mikle\desktop\kursoop release\src\label.cpp
+	"Label.h"
+
+1622451821 source:c:\users\mikle\desktop\kursoop release\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop release\src\menu.cpp
+	"Menu.h"
+
+1622540269 source:c:\users\mikle\desktop\kursoop release\src\particle.cpp
+	"Particle.h"
+
+1622414672 source:c:\users\mikle\desktop\kursoop release\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\mikle\desktop\kursoop release\src\resourse.cpp
+	"Resourse.h"
+
+1622544541 source:c:\users\mikle\desktop\kursoop release\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622538881 source:c:\users\mikle\desktop\kursoop release\src\textures.cpp
+	"Textures.h"
+
+1622402192 source:c:\users\mikle\desktop\kursoop release\stb_image.cpp
+	"stb_image.h"
+
+1622551970 source:c:\users\mikle\desktop\kursoop release\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622418741 source:c:\users\niksinpc\desktop\kursoop release\main.cpp
+	<windows.h>
+	"MainWindow.h"
+	"Menu.h"
+	"Game.h"
+	"Handler.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop release\include\mainwindow.h
+	<windows.h>
+	<iostream>
+	<chrono>
+	<time.h>
+	<gl/gl.h>
+	"../stb_image.h"
+	"Game.h"
+
+1622402192 c:\users\niksinpc\desktop\kursoop release\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1622551766 c:\users\niksinpc\desktop\kursoop release\include\game.h
+	"Menu.h"
+	"Unit.h"
+	"Building.h"
+	"Spawner.h"
+	"Resourse.h"
+	"Field.h"
+	"Textures.h"
+	"Player.h"
+	"Game_Model.h"
+	"Particle.h"
+	<list>
+	<string>
+
+1622402194 c:\users\niksinpc\desktop\kursoop release\include\menu.h
+	<windows.h>
+	<list>
+	"Button.h"
+	"Label.h"
+
+1622445522 c:\users\niksinpc\desktop\kursoop release\include\button.h
+	<windows.h>
+	"gl/gl.h"
+
+1622455732 c:\users\niksinpc\desktop\kursoop release\include\label.h
+	<windows.h>
+	"gl/gl.h"
+	<string>
+
+1622547727 c:\users\niksinpc\desktop\kursoop release\include\unit.h
+	<string>
+	<chrono>
+	<time.h>
+	"gl/gl.h"
+	"Game_Object.h"
+	"Game_Model.h"
+	"Building.h"
+	"Resourse.h"
+
+1622504036 c:\users\niksinpc\desktop\kursoop release\include\game_object.h
+	"gl/gl.h"
+	"Textures.h"
+	<time.h>
+	"Button.h"
+
+1622538800 c:\users\niksinpc\desktop\kursoop release\include\textures.h
+	"../stb_image.h"
+	"gl/gl.h"
+	<iostream>
+
+1622540288 c:\users\niksinpc\desktop\kursoop release\include\game_model.h
+	"Game_Object.h"
+	"Particle.h"
+	<list>
+
+1622540144 c:\users\niksinpc\desktop\kursoop release\include\particle.h
+	"Game_Object.h"
+	"Textures.h"
+	<time.h>
+
+1622544228 c:\users\niksinpc\desktop\kursoop release\include\building.h
+	<string>
+	<iostream>
+	"Game_Object.h"
+	"gl/gl.h"
+	"Resourse.h"
+
+1622542586 c:\users\niksinpc\desktop\kursoop release\include\resourse.h
+	"Game_Object.h"
+	"Textures.h"
+
+1622490553 c:\users\niksinpc\desktop\kursoop release\include\spawner.h
+	"Unit.h"
+	"Building.h"
+	"Field.h"
+
+1622489874 c:\users\niksinpc\desktop\kursoop release\include\field.h
+	<iostream>
+	"stdlib.h"
+	<stdio.h>
+	<windows.h>
+	"Cell.h"
+	<random>
+	<ctime>
+	"Game_Model.h"
+	"Resourse.h"
+
+1622402193 c:\users\niksinpc\desktop\kursoop release\include\cell.h
+	"Game_Object.h"
+
+1622402194 c:\users\niksinpc\desktop\kursoop release\include\player.h
+	"Resourse.h"
+	"Unit.h"
+	"Building.h"
+
+1622453133 c:\users\niksinpc\desktop\kursoop release\include\handler.h
+	<stdio.h>
+	<iostream>
+	"Game.h"
+
+1622645850 source:c:\users\niksinpc\desktop\kursoop release\src\building.cpp
+	"Building.h"
+	"Unit.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop release\src\button.cpp
+	"Button.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop release\src\cell.cpp
+	"Cell.h"
+
+1622491229 source:c:\users\niksinpc\desktop\kursoop release\src\field.cpp
+	"Field.h"
+
+1622543924 source:c:\users\niksinpc\desktop\kursoop release\src\game.cpp
+	"Game.h"
+
+1622540308 source:c:\users\niksinpc\desktop\kursoop release\src\game_model.cpp
+	"Game_Model.h"
+
+1622548608 source:c:\users\niksinpc\desktop\kursoop release\src\handler.cpp
+	"Handler.h"
+
+1622455019 source:c:\users\niksinpc\desktop\kursoop release\src\label.cpp
+	"Label.h"
+
+1622451821 source:c:\users\niksinpc\desktop\kursoop release\src\mainwindow.cpp
+	"MainWindow.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop release\src\menu.cpp
+	"Menu.h"
+
+1622540269 source:c:\users\niksinpc\desktop\kursoop release\src\particle.cpp
+	"Particle.h"
+
+1622414672 source:c:\users\niksinpc\desktop\kursoop release\src\player.cpp
+	"Player.h"
+
+1622402195 source:c:\users\niksinpc\desktop\kursoop release\src\resourse.cpp
+	"Resourse.h"
+
+1622544541 source:c:\users\niksinpc\desktop\kursoop release\src\spawner.cpp
+	"Spawner.h"
+	<random>
+
+1622538881 source:c:\users\niksinpc\desktop\kursoop release\src\textures.cpp
+	"Textures.h"
+
+1622551970 source:c:\users\niksinpc\desktop\kursoop release\src\unit.cpp
+	"Unit.h"
+	"Building.h"
+	"Button.h"
+
+1622402192 source:c:\users\niksinpc\desktop\kursoop release\stb_image.cpp
+	"stb_image.h"
+
