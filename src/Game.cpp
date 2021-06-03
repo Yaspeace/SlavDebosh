@@ -168,7 +168,7 @@ void Game::add_object(Game_Object* obj)
         {
             Unit* u = dynamic_cast<Unit*>(obj);
             cur_player->buy(u);
-            cur_player->add_gain(u);
+            //cur_player->add_gain(u);
         }
     break;
     case(BuildingID):
@@ -183,17 +183,13 @@ void Game::add_object(Game_Object* obj)
 
 void Game::delete_object(Game_Object* del_obj)
 {
-    if(del_obj->get_id() == UnitID)
+    Game_Model::get_game_model()->delete_object(del_obj);
+    if(del_obj->get_id() == UnitID || del_obj->get_id() == EnemyID)
     {
-        Unit* u = dynamic_cast<Unit*>(del_obj);
-        get_player(u->get_team())->remove_gain(u);
+        Particle* p = new Particle(Blood);
+        p->set_position(del_obj->get_position());
+        Game_Model::get_game_model()->add_particle(p);
     }
-    if(del_obj->get_id() == BuildingID)
-    {
-        Building* b = dynamic_cast<Building*>(del_obj);
-        get_player(b->get_team())->remove_gain(b);
-    }
-     Game_Model::get_game_model()->delete_object(del_obj);
 }
 
 void Game::show_menu(bool flag)
@@ -512,6 +508,7 @@ void Game::show()
     else
     {
         main_menu->hide();
+        cur_player->update_resources_gain();
         show_menu(true);
         show_states();
         update_view_grid();
@@ -558,12 +555,7 @@ void Game::change_cur_player()
                 {
                     u->set_cur_health(u->get_cur_health() - (u->get_max_health()/ 5));
                     if(u->get_cur_health() <= 0)
-                    {
-                        Particle* p = new Particle(Blood);
-                        p->set_position(obj->get_position());
-                        Game_Model::get_game_model()->add_particle(p);
                         delete_object(obj);
-                    }
                 }
 
             }
@@ -575,11 +567,7 @@ void Game::change_cur_player()
                 Building* b = dynamic_cast<Building*>(obj);
                 b->set_cur_act_num(b->get_max_act_num());
                 if(b->get_cur_build_count() > 0)
-                {
-                    if(b->get_cur_build_count() == 1)
-                        cur_player->add_gain(b);
                     b->set_cur_build_count(b->get_cur_build_count() - 1);
-                }
             }
         break;
         }

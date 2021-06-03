@@ -99,9 +99,6 @@ void Handler::button_click(MSG msg)
                     }
                 }
                 game->delete_object(game->action_obj);
-                Particle* p = new Particle(Blood);
-                p->set_position(game->action_obj->get_position());
-                Game_Model::get_game_model()->add_particle(p);
             }
             game->end_action();
             }
