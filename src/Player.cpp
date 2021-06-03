@@ -16,6 +16,50 @@ Player::Player(int team, char* name)
     set_oil_gain(0);
 }
 
+void Player::update_resources_gain()
+{
+    int meat = 0, wood = 0, iron = 0, oil = 0;
+    Game_Model* gm_pointer = Game_Model::get_game_model();
+    gm_pointer->reset_iter();
+    while(!gm_pointer->objects_ended())
+    {
+        switch(gm_pointer->get_iter_object()->get_id())
+        {
+        case(UnitID):
+        case(EnemyID):
+            {
+            Unit* u = dynamic_cast<Unit*>(gm_pointer->get_iter_object());
+            if(u->get_team() == this->get_team())
+            {
+                meat += u->get_res_gain(Meat);
+                wood += u->get_res_gain(Tree);
+                iron += u->get_res_gain(Iron);
+                oil += u->get_res_gain(Oil);
+            }
+            }
+        break;
+        case(BuildingID):
+        case(EnemyBuildingID):
+            {
+            Building* b = dynamic_cast<Building*>(gm_pointer->get_iter_object());
+            if(b->get_team() == this->get_team() && b->get_cur_build_count() <= 0)
+            {
+                meat += b->get_res_gain(Meat);
+                wood += b->get_res_gain(Tree);
+                iron += b->get_res_gain(Iron);
+                oil += b->get_res_gain(Oil);
+            }
+            }
+        break;
+        }
+        gm_pointer->increase_iter();
+    }
+    this->set_meat_gain(meat);
+    this->set_wood_gain(wood);
+    this->set_iron_gain(iron);
+    this->set_oil_gain(oil);
+}
+
 void Player::update_resources_amount()
 {
     set_meat_amount(get_meat_amount() + get_meat_gain());
@@ -45,38 +89,6 @@ bool Player::is_anough(Unit* u)
 bool Player::is_anough(Building* b)
 {
     return (get_meat_amount() >= b->get_res_cost(Meat) && get_wood_amount() >= b->get_res_cost(Tree) && get_iron_amount() >= b->get_res_cost(Iron) && get_oil_amount() >= b->get_res_cost(Oil));
-}
-
-void Player::add_gain(Unit* u)
-{
-    set_iron_gain(get_iron_gain() + u->get_res_gain(Iron));
-    set_meat_gain(get_meat_gain() + u->get_res_gain(Meat));
-    set_wood_gain(get_wood_gain() + u->get_res_gain(Tree));
-    set_oil_gain(get_oil_gain() + u->get_res_gain(Oil));
-}
-
-void Player::add_gain(Building* b)
-{
-    set_iron_gain(get_iron_gain() + b->get_res_gain(Iron));
-    set_meat_gain(get_meat_gain() + b->get_res_gain(Meat));
-    set_wood_gain(get_wood_gain() + b->get_res_gain(Tree));
-    set_oil_gain(get_oil_gain() + b->get_res_gain(Oil));
-}
-
-void Player::remove_gain(Unit* u)
-{
-    set_iron_gain(get_iron_gain() - u->get_res_gain(Iron));
-    set_meat_gain(get_meat_gain() - u->get_res_gain(Meat));
-    set_wood_gain(get_wood_gain() - u->get_res_gain(Tree));
-    set_oil_gain(get_oil_gain() - u->get_res_gain(Oil));
-}
-
-void Player::remove_gain(Building* b)
-{
-    set_iron_gain(get_iron_gain() - b->get_res_gain(Iron));
-    set_meat_gain(get_meat_gain() - b->get_res_gain(Meat));
-    set_wood_gain(get_wood_gain() - b->get_res_gain(Tree));
-    set_oil_gain(get_oil_gain() - b->get_res_gain(Oil));
 }
 
 void Player::buy(Unit* u)
